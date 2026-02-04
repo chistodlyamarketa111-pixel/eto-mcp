@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "price_rub": 92070,
+      "date_from": "2026-03-03",
+      "nights": 5,
+      "operator_id": 13,
+      "meal": "AI - Все Включено",
+      "city": "Анталья",
+      "tour_id": "13184459742203",
+      "hotel": {
+        "id": 63576,
+        "name": "KLEOPATRA SUN LIGHT HOTEL",
+        "stars": "3",
+        "rating": "2.9",
+        "region": "Аланья",
+        "subregion": "Алания-центр",
+        "country": "Турция",
+        "image": "https://static.tourvisor.ru/hotel_pics/main400/63576.jpg",
+        "link_slug": "kleopatra-sun-light-opera-hotel"
+      }
+    },
+    {
+      "price_rub": 93132,
+      "date_from": "2026-03-03",
+      "nights": 5,
+      "operator_id": 13,
+      "meal": "Без питания",
+      "city": "Анталья",
+      "tour_id": "13184497519879",
+      "hotel": {
+        "id": 58813,
+        "name": "ARSI ENFI CITY BEACH",
+        "stars": "4",
+        "rating": "3.3",
+        "region": "Аланья",
+        "subregion": "Алания-центр",
+        "country": "Турция",
+        "image": "https://static.tourvisor.ru/hotel_pics/main400/58813.jpg",
+        "link_slug": "arsi-enfi-city-beach"
+      }
+    }
+  ]
+}
+
